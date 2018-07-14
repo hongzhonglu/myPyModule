@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c25b29e4-aa37-4ea6-89c6-0eaba1df481a" name="Default" comment="" />
+    <list default="true" id="c25b29e4-aa37-4ea6-89c6-0eaba1df481a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/hongpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/hongpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/test.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,17 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/code/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,6 +22,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,13 +39,14 @@
         <option value="$PROJECT_DIR$/code/hello.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/code/test.py" />
+        <option value="$PROJECT_DIR$/code/hongpy.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="40" />
     <option name="y" value="25" />
-    <option name="width" value="1079" />
+    <option name="width" value="1177" />
     <option name="height" value="923" />
   </component>
   <component name="ProjectView">
@@ -56,13 +54,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="myPyModule" type="b2602c69:ProjectViewProjectNode" />
               <item name="myPyModule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myPyModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myPyModule" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myPyModule" type="b2602c69:ProjectViewProjectNode" />
@@ -76,6 +78,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,15 +176,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="25" width="1079" height="923" extended-state="0" />
-    <editor active="true" />
+    <frame x="40" y="25" width="1177" height="923" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" x="9" y="28" width="364" height="1008" id="Project" order="0" sideWeight="0.488117" visible="true" weight="0.13307618" />
+      <window_info active="true" content_ui="combo" x="9" y="28" width="364" height="1008" id="Project" order="0" sideWeight="0.488117" visible="true" weight="0.22202644" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3274918" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50555557" side_tool="true" weight="0.34301677" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49444443" weight="0.37858033" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="right" x="1124" y="25" width="749" height="922" id="Python Console" order="3" sideWeight="0.49722221" type="FLOATING" visible="true" weight="0.34978542" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="right" x="1219" y="25" width="654" height="922" id="Python Console" order="3" sideWeight="0.49722221" type="FLOATING" visible="true" weight="0.34978542" />
       <window_info id="Structure" order="1" sideWeight="0.48886138" side_tool="true" weight="0.19002123" />
       <window_info anchor="bottom" x="10" y="297" width="1419" height="280" id="Terminal" order="9" weight="0.13823164" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -197,21 +199,21 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" x="9" y="28" width="364" height="1008" id="Project" order="0" sideWeight="0.488117" visible="true" weight="0.15967742" />
       <window_info id="Structure" order="1" sideWeight="0.48886138" side_tool="true" weight="0.19002123" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3274918" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49444443" weight="0.3800657" />
-      <window_info anchor="right" x="905" y="313" width="739" height="450" id="Python Console" order="3" sideWeight="0.49722221" type="WINDOWED" visible="true" weight="0.34978542" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" x="10" y="297" width="1419" height="280" id="Terminal" order="9" visible="true" weight="0.17594936" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50555557" side_tool="true" weight="0.34301677" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info id="Favorites" order="2" sideWeight="0.5111386" side_tool="true" weight="0.05473098" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" x="905" y="313" width="739" height="450" id="Python Console" order="3" sideWeight="0.49722221" type="WINDOWED" visible="true" weight="0.34978542" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -223,6 +225,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/code/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/code/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -368,13 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/hongpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code/hello.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -384,8 +393,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/code/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="644">
+          <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/hongpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
         </state>
       </provider>
     </entry>

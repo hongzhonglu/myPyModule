@@ -1,8 +1,8 @@
 """mapping"""
 import os    ##for directory
 # set the directory
-os.chdir('/Users/luho/Google Drive/myPyModule')
-sys.path.append(r"/Users/luho/Google Drive/myPyModule/code")
+os.chdir('/Users/luho/Documents/GitHub/myPyModule')
+sys.path.append(r"/Users/luho/Documents/GitHub/myPyModule/code")
 
 
 w = [1,2,3,4,5,6]
@@ -24,9 +24,9 @@ ss = pd.DataFrame({'ss1':s1, 'ss2':s2})
 nn = hongpy.splitAndCombine(ss['ss1'], ss['ss2'], sep0="&")
 
 """autoUpdate"""
-df1 = pd.DataFrame({'A' : ['one', 'one', 'two', 'three'] * 3,
-                    'B' : ['A', 'B', 'C'] * 4,
-                    'C' : ['foo', 'foo', 'foo', 'bar', 'bar', 'bar'] * 2}
+df1 = pd.DataFrame({'A': ['one', 'one', 'two', 'three'] * 3,
+                    'B': ['A', 'B', 'C'] * 4,
+                    'C': ['foo', 'foo', 'foo', 'bar', 'bar', 'bar'] * 2}
                    )
 
 df2 = df1.iloc[[1,2]]
